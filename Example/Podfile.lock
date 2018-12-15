@@ -1,0 +1,16 @@
+PODS:
+  - libHelloWorld (0.1.0)
+
+DEPENDENCIES:
+  - libHelloWorld (from `../`)
+
+EXTERNAL SOURCES:
+  libHelloWorld:
+    :path: ../
+
+SPEC CHECKSUMS:
+  libHelloWorld: c0dbf5d2b243d5582bdc9f0569ec2d541e99efc1
+
+PODFILE CHECKSUM: 0372f66131784e03f60a1ac520832384849e6bcc
+
+COCOAPODS: 1.4.0

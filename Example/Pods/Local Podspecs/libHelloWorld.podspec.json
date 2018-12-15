@@ -1,0 +1,22 @@
+{
+  "name": "libHelloWorld",
+  "version": "0.1.0",
+  "summary": "A short description of libHelloWorld.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/linyong.ly/libHelloWorld",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "linyong.ly": "linyong.ly@bytedance.com"
+  },
+  "source": {
+    "git": "https://github.com/linyong.ly/libHelloWorld.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "libHelloWorld/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module libHelloWorld {
+  umbrella header "libHelloWorld-umbrella.h"
+
+  export *
+  module * { export * }
+}
