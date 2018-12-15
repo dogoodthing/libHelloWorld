@@ -1,0 +1,6 @@
+use_frameworks!
+target 'libHelloWorld_Tests' do
+  pod 'libHelloWorld', :path => '../'
+  
+  
+end
